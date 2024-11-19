@@ -3,56 +3,56 @@
     {
       "id": "a1b2",
       "categoryId": "a191",
-      "name": "MediaMarkt",
-      "desc": "Your go-to spot for the latest in electronics and appliances"
+      "name": "Ticket Counter",
+      "desc": "Counters for ticket reservations and inquiries."
     },
     {
       "id": "b2c3",
       "categoryId": "e928",
-      "name": "KFC",
-      "desc": "A perfect place for enjoying crispy fried chicken and sides"
+      "name": "Food Court",
+      "desc": "A place to enjoy meals and refreshments."
     },
     {
       "id": "c3d4",
       "categoryId": "e928",
-      "name": "McDonald's",
-      "desc": "Classic fast-food chain for burgers, fries, and quick meals"
+      "name": "Food Court",
+      "desc": "Multiple dining options for travelers."
     },
     {
       "id": "d4e5",
       "categoryId": "d21e",
-      "name": "Rolex",
-      "desc": "Swiss luxury watches for discerning customers"
+      "name": "Information Kiosk",
+      "desc": "Get travel information and updates here."
     },
     {
       "id": "e5f6",
       "categoryId": "d21e",
-      "name": "Louis Vuitton",
-      "desc": "High-end bags, luggage, and accessories"
+      "name": "Convenience Store",
+      "desc": "Quick shopping for essential items."
     },
     {
       "id": "f6g7",
       "categoryId": "d21e",
-      "name": "Gucci",
-      "desc": " Italian luxury fashion for trendsetters"
+      "name": "Baggage Storage",
+      "desc": "Secure storage for your luggage."
     },
     {
       "id": "g7h8",
       "categoryId": "d21e",
-      "name": "Chanel",
-      "desc": "Iconic fashion, fragrance, and accessory collections"
+      "name": "Waiting Lounge",
+      "desc": "Comfortable seating for passengers."
     },
     {
       "id": "h8i9",
       "categoryId": "87b0",
-      "name": "Levi's",
-      "desc": "he classic American denim and casual wear"
+      "name": "Restroom",
+      "desc": "Clean and accessible restrooms."
     },
     {
       "id": "i9j0",
       "categoryId": "58a9",
-      "name": "Mall Office",
-      "desc": "For all your mall inquiries and services"
+      "name": "First Aid Center",
+      "desc": "Medical assistance for emergencies."
     },
     {
       "id": "j0k1",

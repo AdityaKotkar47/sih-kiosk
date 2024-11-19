@@ -11,12 +11,16 @@
     "devnhost": "vite --host"
   },
   "dependencies": {
-    "@vercel/analytics": "^1.4.0",
+    "@react-three/drei": "^9.117.2",
+    "@react-three/fiber": "^8.17.10",
     "axios": "^1.6.7",
-    "mongodb": "^6.10.0",
+    "cors": "^2.8.5",
+    "express": "^4.21.1",
+    "mongoose": "^8.8.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "react-router-dom": "^6.18.0"
+    "react-router-dom": "^6.18.0",
+    "three": "^0.170.0"
   },
   "devDependencies": {
     "@types/node": "^20.11.16",
