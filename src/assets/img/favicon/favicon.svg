@@ -10,8 +10,8 @@
   </g>
   <!-- Indoor Layers -->
   <g stroke-width="8" opacity="1">
-    <line x1="40" y1="96" x2="152" y2="144" stroke="#FF5733" stroke-linecap="round"/>
-    <line x1="48" y1="112" x2="144" y2="160" stroke="#33FF57" stroke-linecap="round"/>
-    <line x1="56" y1="128" x2="136" y2="176" stroke="#FFC300" stroke-linecap="round"/>
+    <line x1="40" y1="98" x2="152" y2="144" stroke="#FF5733" stroke-linecap="round"/>
+    <line x1="48" y1="113" x2="144" y2="165" stroke="#33FF57" stroke-linecap="round"/>
+    <line x1="56" y1="130" x2="136" y2="186" stroke="#FFC300" stroke-linecap="round"/>
   </g>
 </svg>
