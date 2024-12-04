@@ -58,7 +58,7 @@ function Sidebar() {
           <div className="rounded-md w-16 h-16 p-4 bg-gray-100 center">
             <img
               src={logo}
-              alt="PathPal"
+              alt="Pravaah"
               className={` ${isRotating ? "rotate" : ""}`}
               onClick={() => setIsRotating(true)}
               onAnimationEnd={() => setIsRotating(false)}
