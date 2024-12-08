@@ -77,42 +77,8 @@ function Objects({ handleObjectClick, className }: ObjectsProps) {
         d="M384.263 747.018l98.933.057-.159 95.586-98.747-.047-.027-95.596z"
         onClick={handleObjectClick}
       />
-      <path
-        id="KFC"
-        className={`${className} object`}
-        d="M696.664 238.508l171.452-.046.021 232.906-171.458-.113-.015-232.747z"
-        onClick={handleObjectClick}
-      />
-      <path
-        id="McDonald's"
-        className={`${className} object`}
-        d="M935.02 239.647l171.451-.046.022 232.493-171.625.071.151-232.518z"
-        onClick={handleObjectClick}
-      />
-      <path
-        id="Rolex"
-        className={`${className} object`}
-        d="M455.6 246.006l179.653-.037.12 104.876-179.822-.036.05-104.803z"
-        onClick={handleObjectClick}
-      />
-      <path
-        id="Louis Vuitton"
-        className={`${className} object`}
-        d="M455.473 359.466l179.713-.037.126 111.555-179.919-.293.08-111.225z"
-        onClick={handleObjectClick}
-      />
-      <path
-        id="Chanel"
-        className={`${className} object`}
-        d="M288.551 245.905l158.26-.05.1 104.876-158.41-.023.05-104.803z"
-        onClick={handleObjectClick}
-      />
-      <path
-        id="Gucci"
-        className={`${className} object`}
-        d="M288.483 359.374l158.26-.059.095 111.54-158.409-.018.054-111.463z"
-        onClick={handleObjectClick}
-      />
+
+ 
       <path
         id="7-Eleven"
         className={`${className} object`}
@@ -155,12 +121,7 @@ function Objects({ handleObjectClick, className }: ObjectsProps) {
         d="M1269.109 35.006l105.412-.136.02 146.317-105.51.034.078-146.215z"
         onClick={handleObjectClick}
       />
-      <path
-        id="Tobacco Shop"
-        className={`${className} object`}
-        d="M1244.815 412.508l179.773.266-.04 128.337-179.694-.064-.04-128.539z"
-        onClick={handleObjectClick}
-      />
+
       <path
         id="PetSmart"
         className={`${className} object`}

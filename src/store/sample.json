@@ -58,36 +58,6 @@
             "cy": 905.781
         },
         {
-            "id": "v10",
-            "objectName": "Gucci",
-            "cx": 361.105,
-            "cy": 474.539
-        },
-        {
-            "id": "v11",
-            "objectName": "Louis Vuitton",
-            "cx": 542.482,
-            "cy": 474.539
-        },
-        {
-            "id": "v12",
-            "objectName": "KFC",
-            "cx": 779.083,
-            "cy": 474.539
-        },
-        {
-            "id": "v13",
-            "objectName": "McDonald's",
-            "cx": 1017.929,
-            "cy": 474.539
-        },
-        {
-            "id": "v14",
-            "objectName": "Tobacco Shop",
-            "cx": 1242.029,
-            "cy": 459.155
-        },
-        {
             "id": "v15",
             "objectName": "PetSmart",
             "cx": 1242.029,
@@ -147,42 +117,17 @@
             "cx": 237.691,
             "cy": 439.536
         },
-        {
-            "id": "v25",
-            "objectName": "Mall Office",
-            "cx": 195.932,
-            "cy": 439.536
-        },
-        {
-            "id": "v26",
-            "objectName": null,
-            "cx": 542.482,
-            "cy": 512.811
-        },
-        {
-            "id": "v27",
-            "objectName": null,
-            "cx": 779.083,
-            "cy": 512.811
-        },
-        {
-            "id": "v28",
-            "objectName": null,
-            "cx": 1017.929,
-            "cy": 512.811
-        },
+
+ 
+
+
         {
             "id": "v29",
             "objectName": null,
             "cx": 1218.515,
             "cy": 512.811
         },
-        {
-            "id": "v30",
-            "objectName": null,
-            "cx": 1218.515,
-            "cy": 459.155
-        },
+
         {
             "id": "v31",
             "objectName": null,
@@ -334,12 +279,6 @@
             "cy": 214.387
         },
         {
-            "id": "v56",
-            "objectName": null,
-            "cx": 1242.029,
-            "cy": 343.02
-        },
-        {
             "id": "v57",
             "objectName": null,
             "cx": 238.382,
@@ -351,18 +290,8 @@
             "cx": 203.474,
             "cy": 214.387
         },
-        {
-            "id": "v59",
-            "objectName": "Chanel",
-            "cx": 345.867,
-            "cy": 242.517
-        },
-        {
-            "id": "v60",
-            "objectName": "Rolex",
-            "cx": 524.915,
-            "cy": 242.517
-        },
+
+
         {
             "id": "v61",
             "objectName": null,
@@ -405,12 +334,7 @@
             "cx": 901.613,
             "cy": 214.387
         },
-        {
-            "id": "v68",
-            "objectName": null,
-            "cx": 901.613,
-            "cy": 512.811
-        },
+
         {
             "id": "v69",
             "objectName": null,
@@ -935,53 +859,12 @@
       "name": "MediaMarkt",
       "desc": "Your go-to spot for the latest in electronics and appliances"
     },
-    {
-      "id": "b2c3",
-      "categoryId": "e928",
-      "name": "KFC",
-      "desc": "A perfect place for enjoying crispy fried chicken and sides"
-    },
-    {
-      "id": "c3d4",
-      "categoryId": "e928",
-      "name": "McDonald's",
-      "desc": "Classic fast-food chain for burgers, fries, and quick meals"
-    },
-    {
-      "id": "d4e5",
-      "categoryId": "d21e",
-      "name": "Rolex",
-      "desc": "Swiss luxury watches for discerning customers"
-    },
-    {
-      "id": "e5f6",
-      "categoryId": "d21e",
-      "name": "Louis Vuitton",
-      "desc": "High-end bags, luggage, and accessories"
-    },
-    {
-      "id": "f6g7",
-      "categoryId": "d21e",
-      "name": "Gucci",
-      "desc": " Italian luxury fashion for trendsetters"
-    },
-    {
-      "id": "g7h8",
-      "categoryId": "d21e",
-      "name": "Chanel",
-      "desc": "Iconic fashion, fragrance, and accessory collections"
-    },
+
     {
       "id": "h8i9",
       "categoryId": "87b0",
       "name": "Levi's",
       "desc": "he classic American denim and casual wear"
-    },
-    {
-      "id": "i9j0",
-      "categoryId": "58a9",
-      "name": "Mall Office",
-      "desc": "For all your mall inquiries and services"
     },
     {
       "id": "j0k1",
@@ -1073,12 +956,7 @@
       "name": "Claire's",
       "desc": "Accessories and jewelry for young girls and teenagers"
     },
-    {
-      "id": "z6a7",
-      "categoryId": "52f1",
-      "name": "Tobacco Shop",
-      "desc": "Tobacco products and smoking accessories"
-    },
+
     {
       "id": "a7b8",
       "categoryId": "52f1",
@@ -1151,10 +1029,7 @@
       "id": "87b0",
       "name": "Fashion"
     },
-    {
-      "id": "17b0",
-      "name": "Sanitary"
-    },
+
     {
       "id": "e753",
       "name": "Entrace"
